@@ -1,0 +1,82 @@
+
+/** font-family: Abel */
+@font-face{
+    font-family: Abel;
+    src: url('./fonts/Abel/Abel-Regular.ttf');
+}
+
+/* font-family: Anton*/
+@font-face{
+    font-family: Anton;
+    src: url('./fonts/Anton/Anton-Regular.ttf');
+}
+/* font-family: Alexander */
+@font-face{
+    font-family: Alexander;
+    src: url('./fonts/Alexander/AlexandraSignature-Regular.ttf');
+}
+/* font-family: Beatrica */
+@font-face{
+    font-family: Beatrica;
+    src: url('./fonts/Beatrica/Beatrica.otf');
+}
+/* font-family: Cavier */
+@font-face{
+    font-family: Cavier;
+    src: url('./fonts/Cavier/CaviarDreams.ttf');
+}
+/* font-family: Champagne */
+@font-face{
+    font-family: Champagne;
+    src: url('./fonts/Champagne/Champagne\ &\ Limousines.ttf');
+}
+/* font-family: Delicious */
+@font-face{
+    font-family: Delicious;
+    src: url('./fonts/Delicious/Delicious.tff.ttf');
+}
+/* font-family: Fashion */
+@font-face{
+    font-family: Fashion;
+    src: url('./fonts/Fashion/Fashion\ Fetish\ Regular.ttf');
+}
+/* font-family: Josefin*/
+@font-face{
+    font-family: Josefin;
+    src: url('./fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf');
+}   
+/* font-family: Lexend*/
+@font-face{
+    font-family: Lexend;
+    src: url('./fonts/Lexend_Deca/LexendDeca-Regular.ttf');
+}   
+/* font-family: Livvic*/
+@font-face{
+    font-family: Livvic;
+    src: url('./fonts/Livvic/Livvic-Regular.ttf');
+}
+/* font-family: Merciful */
+@font-face{
+    font-family: Merciful;
+    src: url('./fonts/Merciful/Merciful\ Heart.ttf');
+}
+/* font-family: Modern */
+@font-face{
+    font-family: Modern;
+    src: url('./fonts/Modern/ModernSans-Light.otf');
+}
+/* font-family: Romantic */
+@font-face{
+    font-family: Romantic;
+    src: url('./fonts/Romantic/Romantic\ Lovely.ttf');
+}
+/* font-family: Saily */
+@font-face{
+    font-family: Saily;
+    src: url('./fonts/Saily/Sailyme.ttf');
+}
+/* font-family: Sandy */
+@font-face{
+    font-family: Sandy;
+    src: url('./fonts/Sandy/Sandy\ Antoniuss.otf');
+}
