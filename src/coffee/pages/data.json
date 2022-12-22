@@ -1,0 +1,28 @@
+{
+    "products" : [
+        {
+            "_id": "prod1",
+            "title": "Cookies",
+            "image": "../images/delicacies1.png",
+            "description": "Dessert for entertainment",
+            "price": 5,
+            "availableFlavor": ["Chocolate", "Mocha", "Caramel"]
+        },
+        {
+            "_id": "prod1",
+            "title": "Cookies",
+            "image": "../images/delicacies1.png",
+            "description": "Dessert for entertainment",
+            "price": 5,
+            "availableFlavor": ["Chocolate", "Mocha", "Caramel"]
+        },
+        {
+            "_id": "prod1",
+            "title": "Cookies",
+            "image": "../images/delicacies1.png",
+            "description": "Dessert for entertainment",
+            "price": 5,
+            "availableFlavor": ["Chocolate", "Mocha", "Caramel"]
+        }
+    ]
+}

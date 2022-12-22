@@ -36,7 +36,7 @@ export default class Footer extends Component {
                                     <a
                                         target="_blank"
                                         rel="noreferrer"
-                                        href="https://wa.me/+2349090288329"><FaWhatsapp /></a>
+                                        href="https://wa.me/+2349090288329"><FaWhatsapp /></a> 
                                 </div>
                             </div>
                         </div>
