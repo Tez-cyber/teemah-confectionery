@@ -4,7 +4,7 @@ function Menu() {
   const calculateTimeLeft = () => {
     //   const year = new Date("2022, 6, 20").getMonth()
     //   console.log(year)
-    const difference = +new Date("2023, 2, 28") - +new Date();
+    const difference = +new Date("2024, 4, 28") - +new Date();
     let timeLeft = {};
 
     if (difference > 0) {
